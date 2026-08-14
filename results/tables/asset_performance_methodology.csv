@@ -1,0 +1,2 @@
+output,source,equity_calendar,crypto_calendar,daily_return,growth_of_1,drawdown,app_policy
+results/data/asset_performance.csv,verified Part A adjusted-close simple-return panels,observed equity trading dates; 252 periods per year,native calendar dates; 365 periods per year,adjusted-close simple return computed within ticker,cumulative product of one plus native-calendar daily returns,"growth of $1 divided by its prior running peak, minus one",read saved artifact only; never load prices or recompute returns

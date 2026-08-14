@@ -1,0 +1,11 @@
+fund,fund_id,universe,method,effective_date,rank,ticker,asset_class,holding_group,weight
+Crypto-Only Minimum Variance,crypto_min_variance,Crypto-only,min_variance,2023-12-02,1,TRX-USD,crypto,Crypto,0.5013434211244641
+Crypto-Only Minimum Variance,crypto_min_variance,Crypto-only,min_variance,2023-12-02,2,BTC-USD,crypto,Crypto,0.4778019775451964
+Crypto-Only Minimum Variance,crypto_min_variance,Crypto-only,min_variance,2023-12-02,3,ETH-USD,crypto,Crypto,0.0208546013303394
+Crypto-Only Minimum Variance,crypto_min_variance,Crypto-only,min_variance,2023-12-02,4,EOS-USD,crypto,Crypto,3.830507073402042e-17
+Crypto-Only Minimum Variance,crypto_min_variance,Crypto-only,min_variance,2023-12-02,5,BCH-USD,crypto,Crypto,3.361145632218229e-17
+Crypto-Only Minimum Variance,crypto_min_variance,Crypto-only,min_variance,2023-12-02,6,ADA-USD,crypto,Crypto,1.7634365339042663e-17
+Crypto-Only Minimum Variance,crypto_min_variance,Crypto-only,min_variance,2023-12-02,7,XRP-USD,crypto,Crypto,5.860280392614084e-19
+Crypto-Only Minimum Variance,crypto_min_variance,Crypto-only,min_variance,2023-12-02,8,XLM-USD,crypto,Crypto,3.6420900640988937e-19
+Crypto-Only Minimum Variance,crypto_min_variance,Crypto-only,min_variance,2023-12-02,9,ETC-USD,crypto,Crypto,0.0
+Crypto-Only Minimum Variance,crypto_min_variance,Crypto-only,min_variance,2023-12-02,10,LTC-USD,crypto,Crypto,0.0

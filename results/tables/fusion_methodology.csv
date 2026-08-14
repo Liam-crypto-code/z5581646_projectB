@@ -1,0 +1,2 @@
+base_fund,tilt_strength,equation,signal,missing_signal_policy,crypto_policy,rebalance_frequency,transaction_costs,parameter_selection
+Combined Equal Weight,0.5,raw equity weight = base weight * (1 + 0.50 * lagged sector sentiment); renormalize equities to base equity sleeve,one-equity-trading-day-lagged VADER sector sentiment,multiplier one; stored signal remains missing,copy every base crypto target unchanged,monthly; same dates as base fund,0.0,fixed ex ante; no out-of-sample tuning

@@ -1,0 +1,2 @@
+model,level,universe,same_day_score,no_news_policy,neutral_policy,signal_lag,lag_missing_policy,downstream_use
+NLTK VADER,company ticker-day,50 equities by complete equity trading calendar,equal-weight mean of original-headline VADER compound scores,missing sentiment; news_observed false; news_coverage zero,observed score zero retained with news_observed true,exactly one equity trading day,no signal when the immediately preceding trading day has no news,standalone analytic only; existing sector fusion unchanged

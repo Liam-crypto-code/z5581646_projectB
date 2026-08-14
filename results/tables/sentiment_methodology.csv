@@ -1,0 +1,2 @@
+model,text_unit,ticker_day_aggregation,sector_day_aggregation,no_news_policy,signal_lag,coverage_measure
+NLTK VADER,original headline title,equal-weight mean of headline compound scores,equal-weight mean of observed ticker-day scores,missing sentiment; zero coverage; no neutral imputation,one equity trading day,observed tickers divided by sector-universe tickers

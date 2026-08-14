@@ -1,0 +1,11 @@
+fund,fund_id,universe,method,effective_date,rank,ticker,asset_class,holding_group,weight
+Crypto-Only Equal Weight,crypto_equal_weight,Crypto-only,equal_weight,2023-12-02,1,ADA-USD,crypto,Crypto,0.1
+Crypto-Only Equal Weight,crypto_equal_weight,Crypto-only,equal_weight,2023-12-02,2,BCH-USD,crypto,Crypto,0.1
+Crypto-Only Equal Weight,crypto_equal_weight,Crypto-only,equal_weight,2023-12-02,3,BTC-USD,crypto,Crypto,0.1
+Crypto-Only Equal Weight,crypto_equal_weight,Crypto-only,equal_weight,2023-12-02,4,EOS-USD,crypto,Crypto,0.1
+Crypto-Only Equal Weight,crypto_equal_weight,Crypto-only,equal_weight,2023-12-02,5,ETC-USD,crypto,Crypto,0.1
+Crypto-Only Equal Weight,crypto_equal_weight,Crypto-only,equal_weight,2023-12-02,6,ETH-USD,crypto,Crypto,0.1
+Crypto-Only Equal Weight,crypto_equal_weight,Crypto-only,equal_weight,2023-12-02,7,LTC-USD,crypto,Crypto,0.1
+Crypto-Only Equal Weight,crypto_equal_weight,Crypto-only,equal_weight,2023-12-02,8,TRX-USD,crypto,Crypto,0.1
+Crypto-Only Equal Weight,crypto_equal_weight,Crypto-only,equal_weight,2023-12-02,9,XLM-USD,crypto,Crypto,0.1
+Crypto-Only Equal Weight,crypto_equal_weight,Crypto-only,equal_weight,2023-12-02,10,XRP-USD,crypto,Crypto,0.1

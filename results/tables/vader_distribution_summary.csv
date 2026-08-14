@@ -1,0 +1,4 @@
+classification,headline_count,headline_ratio,threshold
+negative,19064,0.12983722672478376,compound <= -0.05
+neutral,72786,0.4957161343049786,-0.05 < compound < 0.05
+positive,54980,0.37444663897023767,compound >= 0.05
